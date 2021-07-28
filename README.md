@@ -1,5 +1,7 @@
 # Pico Solar System
 
+Forked from original project to be a Pomodoro clock. 
+
 A miniature device depicting the relative position of the planets in Solar System.
 
 ![pico](docs/pico_s.jpeg)
